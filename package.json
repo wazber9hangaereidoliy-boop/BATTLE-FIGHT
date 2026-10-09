@@ -1,0 +1,8 @@
+{
+  "name": "fusion-arena",
+  "version": "3.0.0",
+  "description": "Fusion Arena - 2v2 side-view fighting game with room codes",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
